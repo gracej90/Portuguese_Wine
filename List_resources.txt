@@ -1,5 +1,3 @@
-List of resources:
-
 - https://discussions.udacity.com/t/help-on-multivariate-graph/198854/3
 - https://discussions.udacity.com/t/log-transformation-of-plot/194767
 - https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
