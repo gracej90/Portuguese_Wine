@@ -1,2 +1,2 @@
-# Portuguese_Wine
+# Project Wine
 Analysis of Portuguese Wine
